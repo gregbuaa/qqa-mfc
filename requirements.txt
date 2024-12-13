@@ -1,0 +1,5 @@
+jsonlines
+openai
+SPARQLWrapper==2.0.0
+tqdm
+argparse

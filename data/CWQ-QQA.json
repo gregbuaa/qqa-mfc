@@ -1,0 +1,3842 @@
+[
+    {
+        "question": "Lou Seal is the mascot for the team that last won the World Series when?",
+        "topic_entity": {
+            "m.03_dwn": "Lou Seal"
+        },
+        "answer": "2014 World Series",
+        "qid_topic_entity": {},
+        "cognitive level": "analyze",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "What type of government is used in the country with Northern District?",
+        "topic_entity": {
+            "m.01vz6b": "Northern District"
+        },
+        "answer": "Parliamentary system",
+        "qid_topic_entity": {
+            "Q189942": "Northern District"
+        },
+        "cognitive level": "understand",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "What is the predominant religion where the leader is Ovadia Yosef?",
+        "topic_entity": {
+            "m.02qmnw": "Ovadia Yosef"
+        },
+        "answer": "Judaism",
+        "qid_topic_entity": {
+            "Q467172": "Ovadia Yosef"
+        },
+        "cognitive level": "analyze",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "What country bordering France contains an airport that serves Nijmegen?",
+        "topic_entity": {
+            "m.0f8l9c": "France",
+            "m.05g2b": "Nijmegen"
+        },
+        "answer": "Germany",
+        "qid_topic_entity": {
+            "Q142": "France",
+            "Q47887": "Nijmegen"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "2"
+    },
+    {
+        "question": "The national anthem Afghan National Anthem is from the country which practices what religions?",
+        "topic_entity": {
+            "m.02r0hl7": "Afghan National Anthem"
+        },
+        "answer": "Sunni Islam",
+        "qid_topic_entity": {
+            "Q179968": "Afghan National Anthem"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "Holding his governmental position from earliest, who founded New York University?",
+        "topic_entity": {
+            "m.0bwfn": "New York University"
+        },
+        "answer": "Albert Gallatin",
+        "qid_topic_entity": {
+            "Q49210": "New York University"
+        },
+        "cognitive level": "analyze",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "When was the last World Series won by team owner Bill Neukom's sports team?",
+        "topic_entity": {
+            "m.03cyzbv": "Bill Neukom"
+        },
+        "answer": "2014 World Series",
+        "qid_topic_entity": {
+            "Q4910332": "Bill Neukom"
+        },
+        "cognitive level": "analyze",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "When did the team led by Larry Baer win the World Series?",
+        "topic_entity": {
+            "m.0hhv_6h": "Larry Baer"
+        },
+        "answer": "2014 World Series",
+        "qid_topic_entity": {
+            "Q6489900": "Larry Baer"
+        },
+        "cognitive level": "analyze",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "What is the home field of the sports team whose mascot is named Fredbird?",
+        "topic_entity": {
+            "m.03p0zx": "Fredbird"
+        },
+        "answer": "Busch Stadium",
+        "qid_topic_entity": {
+            "Q5496669": "Fredbird"
+        },
+        "cognitive level": "analyze",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "What is the most predominant religion in the country Benjamin Netanyahu holds a governmental position?",
+        "topic_entity": {
+            "m.0fm2h": "Benjamin Netanyahu"
+        },
+        "answer": "Judaism",
+        "qid_topic_entity": {
+            "Q43723": "Benjamin Netanyahu"
+        },
+        "cognitive level": "analyze",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "When is the last time the team whose mascot is called Crazy Cab win the World Series?",
+        "topic_entity": {
+            "m.02q_hzh": "Crazy Crab"
+        },
+        "answer": "2014 World Series",
+        "qid_topic_entity": {},
+        "cognitive level": "analyze",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "What museum established earliest can be seen in Vienna Austria?",
+        "topic_entity": {
+            "m.0fhp9": "Vienna"
+        },
+        "answer": "Kunsthistorisches Museum",
+        "qid_topic_entity": {
+            "Q1741": "Vienna"
+        },
+        "cognitive level": "analyze",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "0"
+    },
+    {
+        "question": "What was the last World Series won by the team whose mascot is Lou Seal?",
+        "topic_entity": {
+            "m.03_dwn": "Lou Seal"
+        },
+        "answer": "2014 World Series",
+        "qid_topic_entity": {},
+        "cognitive level": "analyze",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "The sports team owner Fred Hanser Stadium is where?",
+        "topic_entity": {
+            "m.0417nf3": "Fred Hanser"
+        },
+        "answer": "Busch Stadium",
+        "qid_topic_entity": {},
+        "cognitive level": "analyze",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "What museum is located in Vienna, Austria,and was established the latest?",
+        "topic_entity": {
+            "m.0fhp9": "Vienna"
+        },
+        "answer": "Sigmund Freud Museum",
+        "qid_topic_entity": {
+            "Q1741": "Vienna"
+        },
+        "cognitive level": "analyze",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "0"
+    },
+    {
+        "question": "Of both of Adolf Hitler's parents names, the name of the parent with the earliest date of death?",
+        "topic_entity": {
+            "m.07_m9_": "Adolf Hitler"
+        },
+        "answer": "Alois Hitler",
+        "qid_topic_entity": {
+            "Q352": "Adolf Hitler"
+        },
+        "cognitive level": "analyze",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "0"
+    },
+    {
+        "question": "Which nation has the Alta Verapaz Department and is in Central America?",
+        "topic_entity": {
+            "m.01tzh": "Central America",
+            "m.0146np": "Alta Verapaz Department"
+        },
+        "answer": "Guatemala",
+        "qid_topic_entity": {
+            "Q27611": "Central America",
+            "Q504637": "Alta Verapaz Department"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "What educational institution has a football sports team named Northern Colorado Bears is in Greeley, Colorado?",
+        "topic_entity": {
+            "m.0rczx": "Greeley",
+            "m.0lqj7vt": "Northern Colorado Bears football"
+        },
+        "answer": "University of Northern Colorado",
+        "qid_topic_entity": {
+            "Q94274": "Greeley",
+            "Q7058248": "Northern Colorado Bears football"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "2"
+    },
+    {
+        "question": "What language is spoken in the location that appointed Michelle Bachelet to a governmental position speak?",
+        "topic_entity": {
+            "m.03wws_": "Michelle Bachelet"
+        },
+        "answer": "Spanish Language",
+        "qid_topic_entity": {
+            "Q320": "Michelle Bachelet"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "In which countries do the people speak Portuguese, where the child labor percentage was once 1.8?",
+        "topic_entity": {
+            "m.05zjd": "Portuguese Language"
+        },
+        "answer": "Mozambique",
+        "qid_topic_entity": {
+            "Q5146": "Portuguese Language"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "0",
+        "correctness": "1",
+        "distractors": "0"
+    },
+    {
+        "question": "The people from the country that contains Nord-Ouest Department speak what languages today?",
+        "topic_entity": {
+            "m.02g__4": "Nord-Ouest Department"
+        },
+        "answer": "French",
+        "qid_topic_entity": {
+            "Q608361": "Nord-Ouest Department"
+        },
+        "cognitive level": "understand",
+        "unambiguity": "0",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "What actor played the a kid in the movie with a character named Jenny's Father?",
+        "topic_entity": {
+            "m.0y54dn_": "Jenny's Father",
+            "m.0264f7h": "Forrest Gump"
+        },
+        "answer": "Michael Connor Humphreys",
+        "qid_topic_entity": {
+            "Q3077690": "Forrest Gump"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "What European Union country sharing borders with Germany contains the Lejre Municipality?",
+        "topic_entity": {
+            "m.0345h": "Germany",
+            "m.010v_j8w": "Lejre Municipality"
+        },
+        "answer": "Denmark",
+        "qid_topic_entity": {
+            "Q183": "Germany",
+            "Q505369": "Lejre Municipality"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "0"
+    },
+    {
+        "question": "When was the last time a team led by Larr Baer win the World Series?",
+        "topic_entity": {
+            "m.0hhv_6h": "Larry Baer"
+        },
+        "answer": "2014 World Series",
+        "qid_topic_entity": {
+            "Q6489900": "Larry Baer"
+        },
+        "cognitive level": "analyze",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "What year did the basketball team coached by Brad Stevens win the championship?",
+        "topic_entity": {
+            "m.02qwvmq": "Brad Stevens"
+        },
+        "answer": "1964 NBA Finals",
+        "qid_topic_entity": {
+            "Q4954288": "Brad Stevens"
+        },
+        "cognitive level": "understand",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "What country speaks Germanic languages and uses the East German mark as currency?",
+        "topic_entity": {
+            "m.04306rv": "German Language",
+            "m.01tct6": "East German mark"
+        },
+        "answer": "East Germany",
+        "qid_topic_entity": {
+            "Q188": "German Language",
+            "Q157011": "East German mark"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "0",
+        "correctness": "1",
+        "distractors": "0"
+    },
+    {
+        "question": "What was the name of the team that won the 2008 FIFA Club World Cup Final championship?",
+        "topic_entity": {
+            "m.053nq3y": "2008 FIFA Club World Cup Final"
+        },
+        "answer": "Newton Heath L&YR F.C.",
+        "qid_topic_entity": {
+            "Q1152731": "2008 FIFA Club World Cup Final"
+        },
+        "cognitive level": "understand",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "Which of JFK's brother held the latest governmental position?",
+        "topic_entity": {
+            "m.0d3k14": "John F. Kennedy",
+            "m.05zppz": "Male"
+        },
+        "answer": "Robert F. Kennedy",
+        "qid_topic_entity": {
+            "Q9696": "John F. Kennedy",
+            "Q44148": "Male"
+        },
+        "cognitive level": "analyze",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "0"
+    },
+    {
+        "question": "Which country that is situated in the ASEAN Common Time Zone has the largest population?",
+        "topic_entity": {
+            "m.0bzt6c": "ASEAN Common Time Zone"
+        },
+        "answer": "India",
+        "qid_topic_entity": {
+            "Q3273861": "ASEAN Common Time Zone"
+        },
+        "cognitive level": "analyze",
+        "unambiguity": "0",
+        "correctness": "1",
+        "distractors": "0"
+    },
+    {
+        "question": "What popular sport in Spain has a team that won the 2010 FIFA World Cup championship?",
+        "topic_entity": {
+            "m.06mkj": "Spain",
+            "m.016h2b": "2010 FIFA World Cup"
+        },
+        "answer": "Spain national football team",
+        "qid_topic_entity": {
+            "Q29": "Spain",
+            "Q176883": "2010 FIFA World Cup"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "0",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "Which movie with a character called Ajila was directed by Angelina Jolie?",
+        "topic_entity": {
+            "m.0f4vbz": "Angelina Jolie",
+            "m.0gwfc0b": "Ajla"
+        },
+        "answer": "In the Land of Blood and Honey",
+        "qid_topic_entity": {
+            "Q13909": "Angelina Jolie"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "WHat movies have the actress who is an alumni for West Reading El Ctr a part of?",
+        "topic_entity": {
+            "m.076czr3": "West Reading El Ctr"
+        },
+        "answer": "The Lorax",
+        "qid_topic_entity": {},
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "For what did the personage who was educated at the Dewitt High School win a gold medal?",
+        "topic_entity": {
+            "m.07635c3": "Dewitt High School",
+            "m.02lpp7": "Gold medal"
+        },
+        "answer": "Gymnastics at the 2012 Summer Olympics \u2013 Women's artistic team all-around",
+        "qid_topic_entity": {
+            "Q406039": "Gold medal"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "0",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "Where did Tennessee Williams go to college where the newspaper is \"The Maneater\"?",
+        "topic_entity": {
+            "m.0c4y8": "Tennessee Williams",
+            "m.04pk3f": "The Maneater"
+        },
+        "answer": "University of Missouri",
+        "qid_topic_entity": {
+            "Q134262": "Tennessee Williams",
+            "Q7750176": "The Maneater"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "Who is the daughter of the artist who had a concert tour called I Am... World Tour?",
+        "topic_entity": {
+            "m.05200my": "I Am... World Tour"
+        },
+        "answer": "Blue Ivy",
+        "qid_topic_entity": {
+            "Q149224": "I Am... World Tour"
+        },
+        "cognitive level": "understand",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "What are the governmental types in the country whose national anthem is Tien Quan Ca?",
+        "topic_entity": {
+            "m.01kvf8": "Ti\u1ebfn Qu\u00e2n Ca"
+        },
+        "answer": "Communist state",
+        "qid_topic_entity": {
+            "Q208016": "Ti\u1ebfn Qu\u00e2n Ca"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "Copenhagen is the capital of which German neighboring country?",
+        "topic_entity": {
+            "m.0345h": "Germany",
+            "m.01lfy": "Copenhagen"
+        },
+        "answer": "Denmark",
+        "qid_topic_entity": {
+            "Q183": "Germany",
+            "Q1748": "Copenhagen"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "Which of team owners Tom Hicks sports team are in the American League West?",
+        "topic_entity": {
+            "m.07fbnf": "American League West",
+            "m.02kmcb": "Tom Hicks"
+        },
+        "answer": "Texas Rangers",
+        "qid_topic_entity": {
+            "Q1349939": "American League West",
+            "Q553219": "Tom Hicks"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "What colleges did the famous person who went to Castlemont High school go to?",
+        "topic_entity": {
+            "m.0gy5x53": "Castlemont High School"
+        },
+        "answer": "Temple University",
+        "qid_topic_entity": {
+            "Q17514966": "Castlemont High School"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "What movie with the character Teklel Hafouli did Ron Howard do?",
+        "topic_entity": {
+            "m.0g2lq": "Ron Howard",
+            "m.01064ngx": "Teklel Hafouli"
+        },
+        "answer": "The Journey",
+        "qid_topic_entity": {
+            "Q103646": "Ron Howard"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "In the nation that has the Badakhshan province, what religions are practiced?",
+        "topic_entity": {
+            "m.04pwfx": "Badakhshan Province"
+        },
+        "answer": "Sunni Islam",
+        "qid_topic_entity": {
+            "Q165376": "Badakhshan Province"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "Who was the governor of Arizona in 2009 that held his governmental position before 1998?",
+        "topic_entity": {
+            "m.0vmt": "Arizona",
+            "m.0fkvn": "Governor"
+        },
+        "answer": "Janet Napolitano",
+        "qid_topic_entity": {
+            "Q816": "Arizona",
+            "Q132050": "Governor"
+        },
+        "cognitive level": "analyze",
+        "unambiguity": "0",
+        "correctness": "1",
+        "distractors": "0"
+    },
+    {
+        "question": "What does the Missouri River bisect in the Central Time Zone?",
+        "topic_entity": {
+            "m.04ykz": "Missouri River",
+            "m.02fqwt": "Central Time Zone"
+        },
+        "answer": "Iowa",
+        "qid_topic_entity": {
+            "Q5419": "Missouri River",
+            "Q2086913": "Central Time Zone"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "0",
+        "correctness": "1",
+        "distractors": "0"
+    },
+    {
+        "question": "Who was the governor of Ohio in 2011 that was in the government prior to 3-1-1983?",
+        "topic_entity": {
+            "m.05kkh": "Ohio",
+            "m.0fkvn": "Governor"
+        },
+        "answer": "John Kasich",
+        "qid_topic_entity": {
+            "Q1397": "Ohio",
+            "Q132050": "Governor"
+        },
+        "cognitive level": "analyze",
+        "unambiguity": "0",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "Which of the seven Central American countries had co2 emissions per capita once of 2009 metric ton?",
+        "topic_entity": {
+            "m.01tzh": "Central America"
+        },
+        "answer": "Guatemala",
+        "qid_topic_entity": {
+            "Q27611": "Central America"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "0",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "What team that has a mascot named Mariner Moose is in the American League West?",
+        "topic_entity": {
+            "m.07fbnf": "American League West",
+            "m.03lqw4": "Mariner Moose"
+        },
+        "answer": "Seattle Mariners",
+        "qid_topic_entity": {
+            "Q1349939": "American League West",
+            "Q5353616": "Mariner Moose"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "Which location in the Anadyr Timezone has the biggest population?",
+        "topic_entity": {
+            "m.0y496z9": "Anadyr Time Zone"
+        },
+        "answer": "India",
+        "qid_topic_entity": {},
+        "cognitive level": "analyze",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "0"
+    },
+    {
+        "question": "Of the four regions which make up the United Kingdom, which is the country that includes the location, Down District Council?",
+        "topic_entity": {
+            "m.07ssc": "United Kingdom",
+            "m.02dv8y": "Down District Council"
+        },
+        "answer": "Northern Ireland",
+        "qid_topic_entity": {
+            "Q145": "United Kingdom",
+            "Q1198492": "Down District Council"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "What is the most recent event in which the sports team owned by James L. Dolan won the championship?",
+        "topic_entity": {
+            "m.0469ts": "James L. Dolan"
+        },
+        "answer": "1973 NBA Finals",
+        "qid_topic_entity": {
+            "Q6137546": "James L. Dolan"
+        },
+        "cognitive level": "analyze",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "2"
+    },
+    {
+        "question": "What's the currency of the country that includes the location of Buenos Aires?",
+        "topic_entity": {
+            "m.01ly5m": "Buenos Aires"
+        },
+        "answer": "Argentine peso",
+        "qid_topic_entity": {
+            "Q1486": "Buenos Aires"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "2"
+    },
+    {
+        "question": "What year did the team with mascot named Lou Seal win the World Series?",
+        "topic_entity": {
+            "m.03_dwn": "Lou Seal"
+        },
+        "answer": "2014 World Series",
+        "qid_topic_entity": {},
+        "cognitive level": "analyze",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "2"
+    },
+    {
+        "question": "In the film with teh character named Winged Monkey #7, who played Dorothy?",
+        "topic_entity": {
+            "m.0yj6trj": "Winged Monkey #7",
+            "m.020hj1": "Dorothy Gale"
+        },
+        "answer": "Judy Garland",
+        "qid_topic_entity": {
+            "Q2583524": "Dorothy Gale"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "Who holds the position of Prime Minister in the country which contains Dire Dawa?",
+        "topic_entity": {
+            "m.04lj5y": "Dire Dawa",
+            "m.060bp": "Prime minister"
+        },
+        "answer": "Hailemariam Desalegn",
+        "qid_topic_entity": {
+            "Q193486": "Dire Dawa",
+            "Q14212": "Prime minister"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "Where is the state with the capitol of Frankfort located?",
+        "topic_entity": {
+            "m.0fvvg": "Frankfort"
+        },
+        "answer": "United States of America",
+        "qid_topic_entity": {
+            "Q28603": "Frankfort"
+        },
+        "cognitive level": "understand",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "What stadium does the team with mascot named Hank play at?",
+        "topic_entity": {
+            "m.0100sszz": "Hank"
+        },
+        "answer": "Miller Park",
+        "qid_topic_entity": {
+            "Q16982716": "Hank"
+        },
+        "cognitive level": "understand",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "Where is the home stadium of the team who won the 1946 World Series championship?",
+        "topic_entity": {
+            "m.04qhpf": "1946 World Series"
+        },
+        "answer": "Busch Stadium",
+        "qid_topic_entity": {
+            "Q4565836": "1946 World Series"
+        },
+        "cognitive level": "analyze",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "People from the country that contains Nord-Est Department speak what  languages today?",
+        "topic_entity": {
+            "m.02g_z8": "Nord-Est Department"
+        },
+        "answer": "French",
+        "qid_topic_entity": {
+            "Q928694": "Nord-Est Department"
+        },
+        "cognitive level": "understand",
+        "unambiguity": "0",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "In which UK county is the TV program NBC Nightside filmed in?",
+        "topic_entity": {
+            "m.0b6grkv": "NBC Nightside"
+        },
+        "answer": "Mecklenburg County",
+        "qid_topic_entity": {
+            "Q6952781": "NBC Nightside"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "0",
+        "correctness": "0",
+        "distractors": "1"
+    },
+    {
+        "question": "Where was the artist that had This Summer Tour raised?",
+        "topic_entity": {
+            "m.0wfrv9g": "Beat This Summer Tour"
+        },
+        "answer": "Glen Dale",
+        "qid_topic_entity": {
+            "Q16950847": "Beat This Summer Tour"
+        },
+        "cognitive level": "understand",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "What major US religions has a religious organization named Tamil Nadu Thowheed Jamath?",
+        "topic_entity": {
+            "m.09c7w0": "United States of America",
+            "m.010ffmhn": "Tamil Nadu Thowheed Jamath"
+        },
+        "answer": "Islam",
+        "qid_topic_entity": {
+            "Q30": "United States of America",
+            "Q16311876": "Tamil Nadu Thowheed Jamath"
+        },
+        "cognitive level": "understand",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "Who was the vice president of the President who attended Ramble Elementary School?",
+        "topic_entity": {
+            "m.0b6xvr8": "Ramble Elementary"
+        },
+        "answer": "Al Gore",
+        "qid_topic_entity": {},
+        "cognitive level": "understand",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "What year did the MLB franchise owned by Bill Neukom win the world series?",
+        "topic_entity": {
+            "m.03cyzbv": "Bill Neukom"
+        },
+        "answer": "2014 World Series",
+        "qid_topic_entity": {
+            "Q4910332": "Bill Neukom"
+        },
+        "cognitive level": "analyze",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "Santo Domingo is the capital of the country with what currency?",
+        "topic_entity": {
+            "m.0fthl": "Santo Domingo"
+        },
+        "answer": "Dominican peso",
+        "qid_topic_entity": {
+            "Q34820": "Santo Domingo"
+        },
+        "cognitive level": "understand",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "What Portuguese speaking country imported form Brazil?",
+        "topic_entity": {
+            "m.05zjd": "Portuguese Language",
+            "m.015fr": "Brazil"
+        },
+        "answer": "Angola",
+        "qid_topic_entity": {
+            "Q5146": "Portuguese Language",
+            "Q155": "Brazil"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "What languiages are spoken by residents of the Central Western Time Zone?",
+        "topic_entity": {
+            "m.0y498v7": "Central Western Time Zone"
+        },
+        "answer": "English Language",
+        "qid_topic_entity": {},
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "0"
+    },
+    {
+        "question": "The Daily Cardinal is the school newspaper at which university that Russell Wilson attended?",
+        "topic_entity": {
+            "m.05c10yf": "Russell Wilson",
+            "m.048y10": "The Daily Cardinal"
+        },
+        "answer": "University of Wisconsin-Madison",
+        "qid_topic_entity": {
+            "Q1149781": "Russell Wilson",
+            "Q7728628": "The Daily Cardinal"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "When did the team with Crazy crab as their mascot win the world series?",
+        "topic_entity": {
+            "m.02q_hzh": "Crazy Crab"
+        },
+        "answer": "2014 World Series",
+        "qid_topic_entity": {},
+        "cognitive level": "analyze",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "What movie was Taylor Swift in that had a character named Once-ler?",
+        "topic_entity": {
+            "m.0dl567": "Taylor Swift",
+            "m.01q28p": "Jane Eyre"
+        },
+        "answer": "The Lorax",
+        "qid_topic_entity": {
+            "Q112865783": "Taylor Swift",
+            "Q186389": "Jane Eyre"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "0",
+        "distractors": "1"
+    },
+    {
+        "question": "What is considered modern in the country where Bilady, Bilady, Bilady language is the national anthem?",
+        "topic_entity": {
+            "m.0d9nj_": "Bilady, Bilady, Bilady"
+        },
+        "answer": "Modern Standard Arabic",
+        "qid_topic_entity": {
+            "Q171602": "Bilady, Bilady, Bilady"
+        },
+        "cognitive level": "understand",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "What does the religion who worships in Barcelona Cathedral call their God?",
+        "topic_entity": {
+            "m.0vlyb": "Barcelona Cathedral"
+        },
+        "answer": "The Father",
+        "qid_topic_entity": {
+            "Q17155": "Barcelona Cathedral"
+        },
+        "cognitive level": "understand",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "What educational institution with men's  sports team named Wisconsin Badgers did Russell Wilson go to?",
+        "topic_entity": {
+            "m.05c10yf": "Russell Wilson",
+            "m.02qkqcv": "Wisconsin Badgers men's basketball"
+        },
+        "answer": "University of Wisconsin-Madison",
+        "qid_topic_entity": {
+            "Q1149781": "Russell Wilson",
+            "Q8027120": "Wisconsin Badgers men's basketball"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "What country  that appointed Liberal Government of New Zealand to governmental position is an Oceania territory?",
+        "topic_entity": {
+            "m.05nrg": "Oceania",
+            "m.027ns_m": "Liberal Government of New Zealand"
+        },
+        "answer": "New Zealand",
+        "qid_topic_entity": {
+            "Q538": "Oceania",
+            "Q6540678": "Liberal Government of New Zealand"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "What languages are spoken in the country that has national anthem La Dessaliniene?",
+        "topic_entity": {
+            "m.01pm6h": "La Dessalinienne"
+        },
+        "answer": "French",
+        "qid_topic_entity": {
+            "Q214459": "La Dessalinienne"
+        },
+        "cognitive level": "understand",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "What Africa educational institution with Le Delit Francais newspaper did Charles Drew attend?",
+        "topic_entity": {
+            "m.018t67": "Charles R. Drew",
+            "m.05d99s": "Le D\u00e9lit fran\u00e7ais"
+        },
+        "answer": "McGill University",
+        "qid_topic_entity": {
+            "Q1065848": "Charles R. Drew",
+            "Q3222527": "Le D\u00e9lit fran\u00e7ais"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "0",
+        "distractors": "1"
+    },
+    {
+        "question": "What is the birthplace of the artist that went on The Avril Lavinge Tour?",
+        "topic_entity": {
+            "m.0z2ntbg": "The Avril Lavigne Tour"
+        },
+        "answer": "Belleville",
+        "qid_topic_entity": {
+            "Q15441623": "The Avril Lavigne Tour"
+        },
+        "cognitive level": "understand",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "What location appointed Dennis Daugaard to governmental position and is bisected by the Missouri River?",
+        "topic_entity": {
+            "m.04ykz": "Missouri River",
+            "m.0bb5tw": "Dennis Daugaard"
+        },
+        "answer": "South Dakota",
+        "qid_topic_entity": {
+            "Q5419": "Missouri River",
+            "Q881199": "Dennis Daugaard"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "In what stadium does the team who is owned by William DeWitt, Jr. play?",
+        "topic_entity": {
+            "m.05qblx": "William DeWitt, Jr."
+        },
+        "answer": "Busch Stadium",
+        "qid_topic_entity": {
+            "Q8007701": "William DeWitt, Jr."
+        },
+        "cognitive level": "analyze",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "What country located in the Greenwich Mean Time Zone that is the main trading partner of China?",
+        "topic_entity": {
+            "m.0d05w3": "China",
+            "m.03bdv": "Greenwich Mean Time Zone"
+        },
+        "answer": "Sierra Leone",
+        "qid_topic_entity": {
+            "Q148": "China",
+            "Q30192": "Greenwich Mean Time Zone"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "0"
+    },
+    {
+        "question": "Which of the seven Central American countries uses the United States Dollar currency?",
+        "topic_entity": {
+            "m.01tzh": "Central America",
+            "m.09nqf": "United States Dollar"
+        },
+        "answer": "Panama",
+        "qid_topic_entity": {
+            "Q27611": "Central America",
+            "Q4917": "United States Dollar"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "0"
+    },
+    {
+        "question": "What movies did the person who went to William O. Schafer Elementary School direct?",
+        "topic_entity": {
+            "m.076dzmh": "William O. Schaefer Elementary School"
+        },
+        "answer": "Unbroken",
+        "qid_topic_entity": {},
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "The person who attended education institution in East Whittier Elementary School died where?",
+        "topic_entity": {
+            "m.0_sp3dx": "East Whittier Elementary School"
+        },
+        "answer": "New York City",
+        "qid_topic_entity": {},
+        "cognitive level": "understand",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "What film with character Macbeth does Logan Lerman play in?",
+        "topic_entity": {
+            "m.04f1s6": "Logan Lerman"
+        },
+        "answer": "Percy Jackson & the Olympians: The Lightning Thief",
+        "qid_topic_entity": {
+            "Q221068": "Logan Lerman"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "0",
+        "distractors": "1"
+    },
+    {
+        "question": "Rise is the mascot for the team which won the Super Bowl in what year?",
+        "topic_entity": {
+            "m.0nz45zc": "Rise",
+            "m.01xljv1": "Super bowl"
+        },
+        "answer": "Super Bowl XXXV",
+        "qid_topic_entity": {},
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "Mike Johanns was elected governor of what area that is bisected by the Missouri River?",
+        "topic_entity": {
+            "m.04ykz": "Missouri River",
+            "m.02722_": "Mike Johanns"
+        },
+        "answer": "Nebraska",
+        "qid_topic_entity": {
+            "Q5419": "Missouri River",
+            "Q448880": "Mike Johanns"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "Which popular sports team in United Kingdom, that won the 2014 Eurocup Finals championship?",
+        "topic_entity": {
+            "m.07ssc": "United Kingdom",
+            "m.010wxwln": "2014 Eurocup Finals"
+        },
+        "answer": "Valencia BC",
+        "qid_topic_entity": {
+            "Q145": "United Kingdom",
+            "Q20807523": "2014 Eurocup Finals"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "0",
+        "distractors": "0"
+    },
+    {
+        "question": "What organization led by Bentley B. Rayburn?",
+        "topic_entity": {
+            "m.0hprvkj": "Bentley B. Rayburn"
+        },
+        "answer": "College/University",
+        "qid_topic_entity": {},
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "0"
+    },
+    {
+        "question": "What Caribbean countries use the East Caribbean dollar currency?",
+        "topic_entity": {
+            "m.0261m": "Caribbean",
+            "m.02r4k": "East Caribbean dollar"
+        },
+        "answer": "Anguilla",
+        "qid_topic_entity": {
+            "Q664609": "Caribbean",
+            "Q26365": "East Caribbean dollar"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "0"
+    },
+    {
+        "question": "What country does Turkey trade with that contains the Annaba Province?",
+        "topic_entity": {
+            "m.01znc_": "Turkey",
+            "m.018h9n": "Annaba Province"
+        },
+        "answer": "Algeria",
+        "qid_topic_entity": {
+            "Q43": "Turkey",
+            "Q213944": "Annaba Province"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "What type of religiong with a religious sacred site of Lumbini is in China?",
+        "topic_entity": {
+            "m.0d05w3": "China",
+            "m.01c_w6": "Lumbini"
+        },
+        "answer": "Buddhism",
+        "qid_topic_entity": {
+            "Q148": "China",
+            "Q9213": "Lumbini"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "0",
+        "distractors": "1"
+    },
+    {
+        "question": "What event with less than 30,000 casualties happened at Dunkirk in WW3?",
+        "topic_entity": {
+            "m.0md6f": "Dunkirk",
+            "m.081pw": "World War II"
+        },
+        "answer": "Battle of Dunkirk",
+        "qid_topic_entity": {
+            "Q45797": "Dunkirk",
+            "Q362": "World War II"
+        },
+        "cognitive level": "analyze",
+        "unambiguity": "1",
+        "correctness": "0",
+        "distractors": "1"
+    },
+    {
+        "question": "What is the type of government practiced in the country where the Israeli Lira is used?",
+        "topic_entity": {
+            "m.036g0k": "Israeli lira"
+        },
+        "answer": "Parliamentary system",
+        "qid_topic_entity": {
+            "Q1674712": "Israeli lira"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "What popular Sports Team in Spain was founded in 1530?",
+        "topic_entity": {
+            "m.06mkj": "Spain"
+        },
+        "answer": "Joventut Badalona",
+        "qid_topic_entity": {
+            "Q29": "Spain"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "0",
+        "distractors": "0"
+    },
+    {
+        "question": "What tv show starring tamera mowry has the shortest running time?",
+        "topic_entity": {
+            "m.075kfb": "Tamera Mowry"
+        },
+        "answer": "Roommates",
+        "qid_topic_entity": {
+            "Q2341056": "Tamera Mowry"
+        },
+        "cognitive level": "analyze",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "Which movie was produced by Neal L. Moritz where Tamera Mowry acted in?",
+        "topic_entity": {
+            "m.075kfb": "Tamera Mowry",
+            "m.043q6n_": "Neal H. Moritz"
+        },
+        "answer": "Juice",
+        "qid_topic_entity": {
+            "Q2341056": "Tamera Mowry",
+            "Q928022": "Neal H. Moritz"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "0",
+        "distractors": "1"
+    },
+    {
+        "question": "Who were the award nominees for the 2003 Boston Society of Film Critics Awards?",
+        "topic_entity": {
+            "m.09t_1l": "Boston Society of Film Critics Awards 2003"
+        },
+        "answer": "Ryan Reynolds",
+        "qid_topic_entity": {
+            "Q2815293": "Boston Society of Film Critics Awards 2003"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "Who dated the nominee for the Venice Film Festival Upstream Prize for Best Actress?",
+        "topic_entity": {
+            "m.0gm4_th": "Venice Film Festival Upstream Prize for Best Actress"
+        },
+        "answer": "Ryan Reynolds",
+        "qid_topic_entity": {},
+        "cognitive level": "understand",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "2"
+    },
+    {
+        "question": "Who served as Vice-President under the political appointee who held the title U.S. Attorney for the Northern District of Georgia?",
+        "topic_entity": {
+            "m.0459wjj": "U.S. Attorney for the Northern District of Georgia"
+        },
+        "answer": "George H. W. Bush",
+        "qid_topic_entity": {},
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "What is the name of the sports team that owns Old Trafford Stadium?",
+        "topic_entity": {
+            "m.030lpl": "Old Trafford"
+        },
+        "answer": "Newton Heath L&YR F.C.",
+        "qid_topic_entity": {
+            "Q83457": "Old Trafford"
+        },
+        "cognitive level": "understand",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "When prior to October 30, 2014 did the Giants win the world series?",
+        "topic_entity": {
+            "m.0713r": "San Francisco Giants"
+        },
+        "answer": "2010 World Series",
+        "qid_topic_entity": {
+            "Q308966": "San Francisco Giants"
+        },
+        "cognitive level": "analyze",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "What artist recorded Elf's Lament?",
+        "topic_entity": {
+            "m.0z534m": "Elf's Lament"
+        },
+        "answer": "Actor",
+        "qid_topic_entity": {},
+        "cognitive level": "understand",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "What prophet to Catholics call God?",
+        "topic_entity": {
+            "m.0c8wxp": "Catholicism",
+            "m.066dv": "Prophet"
+        },
+        "answer": "Jesus Christ",
+        "qid_topic_entity": {
+            "Q1841": "Catholicism",
+            "Q42857": "Prophet"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "0"
+    },
+    {
+        "question": "At which school did the President that said, \"Forgive your enemies, but never forget their names\" attend?",
+        "topic_entity": {
+            "m.048kbz9": "Forgive your enemies, but never forget their names."
+        },
+        "answer": "Harvard University",
+        "qid_topic_entity": {},
+        "cognitive level": "understand",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "What school to Jennifer Hudson go to with where the organization had a founding date of 03/12/1897?",
+        "topic_entity": {
+            "m.02ktrs": "Jennifer Hudson"
+        },
+        "answer": "Langston University",
+        "qid_topic_entity": {
+            "Q192410": "Jennifer Hudson"
+        },
+        "cognitive level": "analyze",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "What Italy movie has Charlie Hunnam been in?",
+        "topic_entity": {
+            "m.057yk8": "Charlie Hunnam",
+            "m.03rjj": "Italy"
+        },
+        "answer": "The Ledge",
+        "qid_topic_entity": {
+            "Q356294": "Charlie Hunnam",
+            "Q38": "Italy"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "0",
+        "distractors": "0"
+    },
+    {
+        "question": "What religion practiced in Italy also has Huldrych Zwingli as a founding figure?",
+        "topic_entity": {
+            "m.03rjj": "Italy",
+            "m.03jp4": "Huldrych Zwingli"
+        },
+        "answer": "Protestantism",
+        "qid_topic_entity": {
+            "Q38": "Italy",
+            "Q123034": "Huldrych Zwingli"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "0",
+        "distractors": "1"
+    },
+    {
+        "question": "What languages are spoken where Haitian Creole is spoken?",
+        "topic_entity": {
+            "m.02dhwl": "Haitian Creole"
+        },
+        "answer": "French",
+        "qid_topic_entity": {
+            "Q33491": "Haitian Creole"
+        },
+        "cognitive level": "understand",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "In which state did the fictional character Gifoyle live?",
+        "topic_entity": {
+            "m.0_gvs41": "Gilfoyle"
+        },
+        "answer": "Ontario",
+        "qid_topic_entity": {},
+        "cognitive level": "understand",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "0"
+    },
+    {
+        "question": "What is the form of money used in the country where Cypriot Maronite Arabic is spoken?",
+        "topic_entity": {
+            "m.02hwj5j": "Cypriot Maronite Arabic"
+        },
+        "answer": "Euro",
+        "qid_topic_entity": {
+            "Q56416": "Cypriot Maronite Arabic"
+        },
+        "cognitive level": "understand",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "What movie, written by Katerine Fugate, featured Taylor Swift?",
+        "topic_entity": {
+            "m.0dl567": "Taylor Swift",
+            "m.0273svj": "Katherine Fugate"
+        },
+        "answer": "Valentine's Day",
+        "qid_topic_entity": {
+            "Q112865783": "Taylor Swift",
+            "Q441285": "Katherine Fugate"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "Which countries that speak Portuguese, have the largest calling code?",
+        "topic_entity": {
+            "m.05zjd": "Portuguese Language"
+        },
+        "answer": "Macau",
+        "qid_topic_entity": {
+            "Q5146": "Portuguese Language"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "What does the author of Dreams from my Father have a degree in?",
+        "topic_entity": {
+            "m.028xzkj": "Dreams from My Father"
+        },
+        "answer": "Political Science",
+        "qid_topic_entity": {},
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "Find the place where Nynorsk is spoken, what other languages are spoken there?",
+        "topic_entity": {
+            "m.016rsc": "Nynorsk"
+        },
+        "answer": "Norwegian Language",
+        "qid_topic_entity": {
+            "Q25164": "Nynorsk"
+        },
+        "cognitive level": "understand",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "Who played Dumbledore in the film that contained Daniel Brunet in the crew?",
+        "topic_entity": {
+            "m.0ggnh_h": "Daniel Brunet",
+            "m.0cb2r": "Professor Albus Dumbledore"
+        },
+        "answer": "Richard Harris",
+        "qid_topic_entity": {
+            "Q712548": "Professor Albus Dumbledore"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "Who was an actor in the film that Christopher Lee Foster was a crew member of as a kid?",
+        "topic_entity": {
+            "m.0wyxjxy": "Christopher Lee Foster",
+            "m.0264f7h": "Forrest Gump"
+        },
+        "answer": "Michael Connor Humphreys",
+        "qid_topic_entity": {
+            "Q3077690": "Forrest Gump"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "What is the name of currency in the place where Fila Brasileiro originated?",
+        "topic_entity": {
+            "m.03n1dn": "Fila Brasileiro"
+        },
+        "answer": "Brazilian real",
+        "qid_topic_entity": {
+            "Q37808": "Fila Brasileiro"
+        },
+        "cognitive level": "understand",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "What movies are the ones that Albert Breen production designed and that Taylor Lautner played in?",
+        "topic_entity": {
+            "m.07ldhs": "Taylor Lautner",
+            "m.05b5_tj": "Albert Brenner"
+        },
+        "answer": "Valentine's Day",
+        "qid_topic_entity": {
+            "Q23359": "Taylor Lautner",
+            "Q984073": "Albert Brenner"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "2"
+    },
+    {
+        "question": "What languages are spoken where Tropical Storm Alpha hit?",
+        "topic_entity": {
+            "m.08kpy_": "Tropical Storm Alpha"
+        },
+        "answer": "French",
+        "qid_topic_entity": {
+            "Q1970760": "Tropical Storm Alpha"
+        },
+        "cognitive level": "understand",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "The film Nucingen House was filmed in a location which includes which three native languages?",
+        "topic_entity": {
+            "m.0b66s0f": "Nucingen House"
+        },
+        "answer": "Spanish Language",
+        "qid_topic_entity": {
+            "Q3210326": "Nucingen House"
+        },
+        "cognitive level": "understand",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "Which university, with 5069 undergraduate students, did President Kennedy attend?",
+        "topic_entity": {
+            "m.0d3k14": "John F. Kennedy"
+        },
+        "answer": "Princeton University",
+        "qid_topic_entity": {
+            "Q9696": "John F. Kennedy"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "What country shared the borders with France that has the official symbol as Coat of Arms?",
+        "topic_entity": {
+            "m.0f8l9c": "France",
+            "m.0fcxk": "Coat of arms"
+        },
+        "answer": "Belgium",
+        "qid_topic_entity": {
+            "Q142": "France",
+            "Q14659": "Coat of arms"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "What movie was decorated by Antonio Mateos and made by Ron Howard?",
+        "topic_entity": {
+            "m.0g2lq": "Ron Howard",
+            "m.0546t0y": "Antonio Mateos"
+        },
+        "answer": "The Spikes Gang",
+        "qid_topic_entity": {
+            "Q103646": "Ron Howard",
+            "Q603470": "Antonio Mateos"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "What happened in Dunkirk during WWII that ended on 05/08/1945?",
+        "topic_entity": {
+            "m.0md6f": "Dunkirk",
+            "m.081pw": "World War II"
+        },
+        "answer": "Battle of Dunkirk",
+        "qid_topic_entity": {
+            "Q45797": "Dunkirk",
+            "Q362": "World War II"
+        },
+        "cognitive level": "analyze",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "What movie written by Ethan Coen was directed by Angelina Jolie?",
+        "topic_entity": {
+            "m.0f4vbz": "Angelina Jolie",
+            "m.02kxbwx": "Ethan Coen"
+        },
+        "answer": "Unbroken",
+        "qid_topic_entity": {
+            "Q13909": "Angelina Jolie",
+            "Q13595531": "Ethan Coen"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "What language is used in the place that is home to Tutankhamun?",
+        "topic_entity": {
+            "m.0gy5xdq": "Tutankhamun"
+        },
+        "answer": "Modern Standard Arabic",
+        "qid_topic_entity": {},
+        "cognitive level": "understand",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "What movie starring Taylor Lautner was released and distributed by medium DVD?",
+        "topic_entity": {
+            "m.07ldhs": "Taylor Lautner",
+            "m.029j_": "DVD"
+        },
+        "answer": "The Twilight Saga: Breaking Dawn - Part 2",
+        "qid_topic_entity": {
+            "Q23359": "Taylor Lautner",
+            "Q5294": "DVD"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "The country with the Office of the Prosecutor General of Ukraine speaks which languages?",
+        "topic_entity": {
+            "m.0wyz4h8": "Office of the Prosecutor General of Ukraine"
+        },
+        "answer": "Moldovan language",
+        "qid_topic_entity": {
+            "Q72282729": "Office of the Prosecutor General of Ukraine"
+        },
+        "cognitive level": "understand",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "What currency is used in the jurisdiction where the Cabinet of Peru is located?",
+        "topic_entity": {
+            "m.027k6rm": "Cabinet of Peru"
+        },
+        "answer": "Peruvian nuevo sol",
+        "qid_topic_entity": {
+            "Q2993851": "Cabinet of Peru"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "Which timezone is the San Francisco airport in?",
+        "topic_entity": {
+            "m.09c7w0": "United States of America",
+            "m.01l4xk": "San Francisco International Airport"
+        },
+        "answer": "Pacific Time Zone",
+        "qid_topic_entity": {
+            "Q30": "United States of America",
+            "Q8688": "San Francisco International Airport"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "0"
+    },
+    {
+        "question": "What movies was the actor who was nominated for the Funny People Award have a role in?",
+        "topic_entity": {
+            "m.047svrl": "Funny People"
+        },
+        "answer": "Paul Blart: Mall Cop",
+        "qid_topic_entity": {
+            "Q1137899": "Funny People"
+        },
+        "cognitive level": "understand",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "What type of economy is in place in the area under the Government of the Soviet Union?",
+        "topic_entity": {
+            "m.0dlk41b": "Government of the Soviet Union"
+        },
+        "answer": "Parliamentary republic",
+        "qid_topic_entity": {
+            "Q2148": "Government of the Soviet Union"
+        },
+        "cognitive level": "understand",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "What inspired the artist who created the Houses of Parliament series?",
+        "topic_entity": {
+            "m.0285_4w": "Houses of Parliament series"
+        },
+        "answer": "Camille Pissarro",
+        "qid_topic_entity": {
+            "Q468623": "Houses of Parliament series"
+        },
+        "cognitive level": "understand",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "What war did France participate in where it's fighting force was the smallest?",
+        "topic_entity": {
+            "m.0f8l9c": "France"
+        },
+        "answer": "Battle of Bail\u00e9n",
+        "qid_topic_entity": {
+            "Q142": "France"
+        },
+        "cognitive level": "analyze",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "The song \"Freedom Run\" was written by which songwriter?",
+        "topic_entity": {
+            "m.0zh2q27": "Freedom Run"
+        },
+        "answer": "Musician",
+        "qid_topic_entity": {},
+        "cognitive level": "understand",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "What amusement park is located in California with a ride called House of Horrors?",
+        "topic_entity": {
+            "m.0f2wj": "Hollywood",
+            "m.02z3ztn": "Universal's House of Horrors"
+        },
+        "answer": "Universal Studios Hollywood",
+        "qid_topic_entity": {
+            "Q34006": "Hollywood",
+            "Q7893863": "Universal's House of Horrors"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "What language is spoken in the country that circulates a newspaper called Manager Daily?",
+        "topic_entity": {
+            "m.0fr78r": "Manager Daily"
+        },
+        "answer": "Akha Language",
+        "qid_topic_entity": {
+            "Q4923161": "Manager Daily"
+        },
+        "cognitive level": "understand",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "What university did the artist famous for creating Go All Night attend?",
+        "topic_entity": {
+            "m.012xvk70": "Go All Night (extended mix)"
+        },
+        "answer": "Dunbar Vocational High School",
+        "qid_topic_entity": {},
+        "cognitive level": "understand",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "What is the birthplace and childhood home of the person who wrote the lyrics to \"Ticks\"?",
+        "topic_entity": {
+            "m.02vy9j7": "Ticks"
+        },
+        "answer": "Glen Dale",
+        "qid_topic_entity": {
+            "Q7800723": "Ticks"
+        },
+        "cognitive level": "understand",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "What was the latest film starring Tupac to be released?",
+        "topic_entity": {
+            "m.07pzc": "Tupac Shakur"
+        },
+        "answer": "Gang Related",
+        "qid_topic_entity": {
+            "Q6107": "Tupac Shakur"
+        },
+        "cognitive level": "analyze",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "What timezones are the Michigan Supreme Courts in?",
+        "topic_entity": {
+            "m.04s5bm": "Michigan Supreme Court"
+        },
+        "answer": "UTC\u221205:00",
+        "qid_topic_entity": {
+            "Q1415342": "Michigan Supreme Court"
+        },
+        "cognitive level": "understand",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "0"
+    },
+    {
+        "question": "What magazine did Edgar Allen Poe work for that started publishing most recently?",
+        "topic_entity": {
+            "m.02lt8": "Edgar Allan Poe"
+        },
+        "answer": "Broadway Journal",
+        "qid_topic_entity": {
+            "Q16867": "Edgar Allan Poe"
+        },
+        "cognitive level": "analyze",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "The \"Jade Emperor\" deity is found in what sacred text(s)?",
+        "topic_entity": {
+            "m.01tbmq": "Jade Emperor"
+        },
+        "answer": "Zhuang Zhou",
+        "qid_topic_entity": {
+            "Q860434": "Jade Emperor"
+        },
+        "cognitive level": "understand",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "What type of money is used in the jurisdiction that has a governmental position titled Vice President of Argentina?",
+        "topic_entity": {},
+        "answer": "Argentine peso",
+        "qid_topic_entity": {},
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "2"
+    },
+    {
+        "question": "What Ron Howard movie that was filmed in New York?",
+        "topic_entity": {
+            "m.0g2lq": "Ron Howard",
+            "m.02mjmr": "Beijing"
+        },
+        "answer": "Night Shift",
+        "qid_topic_entity": {
+            "Q103646": "Ron Howard",
+            "Q956": "Beijing"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "0",
+        "distractors": "1"
+    },
+    {
+        "question": "What monetary currency that is used in the country where Romansh language is used?",
+        "topic_entity": {
+            "m.06ctk": "Romansh language"
+        },
+        "answer": "Swiss franc",
+        "qid_topic_entity": {
+            "Q13199": "Romansh language"
+        },
+        "cognitive level": "understand",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "Which Composer voices Jack Skellington?",
+        "topic_entity": {
+            "m.042zz0": "Jack Skellington",
+            "m.02nsjvf": "Voice",
+            "m.01c72t": "Composer"
+        },
+        "answer": "Danny Elfman",
+        "qid_topic_entity": {
+            "Q2708262": "Jack Skellington",
+            "Q36834": "Composer"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "0"
+    },
+    {
+        "question": "Where does the river that flows through Volgograd start?",
+        "topic_entity": {
+            "m.07_h1": "Volgograd"
+        },
+        "answer": "Valdai Hills",
+        "qid_topic_entity": {
+            "Q914": "Volgograd"
+        },
+        "cognitive level": "understand",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "Who played Dorothy in the film George G. Schneider worked on?",
+        "topic_entity": {
+            "m.0_lzsbf": "George G. Schneider",
+            "m.020hj1": "Dorothy Gale"
+        },
+        "answer": "Judy Garland",
+        "qid_topic_entity": {
+            "Q2583524": "Dorothy Gale"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "Where do the Houston Rockets play basketball and which structure was opened most recently.?",
+        "topic_entity": {
+            "m.0jmfb": "Houston Rockets"
+        },
+        "answer": "Toyota Center",
+        "qid_topic_entity": {
+            "Q161345": "Houston Rockets"
+        },
+        "cognitive level": "analyze",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "Who was the real Erin Brockovich featured in the Michael Renault Mageau movie?",
+        "topic_entity": {
+            "m.02nxk": "Erin Brockovich",
+            "m.06_hhlh": "Michael Renault Mageau"
+        },
+        "answer": "Consultant",
+        "qid_topic_entity": {
+            "Q232019": "Erin Brockovich"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "Paul Ryan is owner of radio station WAMU and which college did he attend?",
+        "topic_entity": {
+            "m.024v2j": "Paul Ryan",
+            "m.04v323": "WAMU"
+        },
+        "answer": "American University",
+        "qid_topic_entity": {
+            "Q203966": "Paul Ryan",
+            "Q3564603": "WAMU"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "Where is Whistler Mountain located that was featured in the work \"Blood Brother\"?",
+        "topic_entity": {
+            "m.02pg6z3": "Whistler Mountain",
+            "m.02vpg42": "Blood Brother"
+        },
+        "answer": "North America",
+        "qid_topic_entity": {
+            "Q2063471": "Whistler Mountain"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "What college with organization headquarters located in New York City did James Baldwin attend?",
+        "topic_entity": {
+            "m.017_pb": "James Baldwin",
+            "m.02_286": "New York City"
+        },
+        "answer": "The New School",
+        "qid_topic_entity": {
+            "Q31174977": "James Baldwin",
+            "Q60": "New York City"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "What movie starred Taylor Lautner and had costume design done by Nina Proctor?",
+        "topic_entity": {
+            "m.07ldhs": "Taylor Lautner",
+            "m.05sqlds": "Nina Proctor"
+        },
+        "answer": "The Adventures of Sharkboy and Lavagirl",
+        "qid_topic_entity": {
+            "Q23359": "Taylor Lautner"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "Taylor Lautner stars is which movie that incluedes the music of Edward Shearmur?",
+        "topic_entity": {
+            "m.07ldhs": "Taylor Lautner",
+            "m.01m7f5r": "Edward Shearmur"
+        },
+        "answer": "Abduction",
+        "qid_topic_entity": {
+            "Q23359": "Taylor Lautner",
+            "Q496207": "Edward Shearmur"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "What movies, written by Gloria Katz, did Ron Howard do?",
+        "topic_entity": {
+            "m.0g2lq": "Ron Howard",
+            "m.0276gf9": "Gloria Katz"
+        },
+        "answer": "American Graffiti",
+        "qid_topic_entity": {
+            "Q103646": "Ron Howard",
+            "Q133631": "Gloria Katz"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "Whic movie directed by Ron Howard was featured in the Chinese language?",
+        "topic_entity": {
+            "m.0g2lq": "Ron Howard",
+            "m.0k1tl": "Chinese language"
+        },
+        "answer": "Dr. Seuss' How the Grinch Stole Christmas",
+        "qid_topic_entity": {
+            "Q103646": "Ron Howard",
+            "Q7850": "Chinese language"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "What actors and actresses were in the TV show that had the theme song called \"I Love You\"?",
+        "topic_entity": {
+            "m.0n9w_b_": "I Love You",
+            "m.0j_84dv": "Barney"
+        },
+        "answer": "Bob West",
+        "qid_topic_entity": {},
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "Which composer scored Edward Scissorhands and provided the voice for movie character Jack Skellington?",
+        "topic_entity": {
+            "m.042zz0": "Jack Skellington",
+            "m.02nsjvf": "Voice",
+            "m.0gx_vdj": "Edward Scissorhands"
+        },
+        "answer": "Danny Elfman",
+        "qid_topic_entity": {
+            "Q2708262": "Jack Skellington",
+            "Q2653485": "Edward Scissorhands"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "What is the political system in the country that has the airline V Bird?",
+        "topic_entity": {
+            "m.05zbq0": "V Bird"
+        },
+        "answer": "Parliamentary republic",
+        "qid_topic_entity": {
+            "Q337850": "V Bird"
+        },
+        "cognitive level": "understand",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "What movie features music by Gabriel Yared and was directed by Angelina Jolie?",
+        "topic_entity": {
+            "m.0f4vbz": "Angelina Jolie",
+            "m.012ljv": "Gabriel Yared"
+        },
+        "answer": "In the Land of Blood and Honey",
+        "qid_topic_entity": {
+            "Q13909": "Angelina Jolie",
+            "Q502957": "Gabriel Yared"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "Where did Charles Drew, who wrote \"The Loft Years\" go to college?",
+        "topic_entity": {
+            "m.018t67": "Charles R. Drew",
+            "m.067phpv": "The Lohf years"
+        },
+        "answer": "Columbia University",
+        "qid_topic_entity": {
+            "Q1065848": "Charles R. Drew"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "What University attended by President Kennedy also publishes the periodical journal Princeton Tiger Magazine?",
+        "topic_entity": {
+            "m.0d3k14": "John F. Kennedy",
+            "m.026_bc": "Princeton Tiger Magazine"
+        },
+        "answer": "Princeton University",
+        "qid_topic_entity": {
+            "Q9696": "John F. Kennedy",
+            "Q7245011": "Princeton Tiger Magazine"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "What religion, practiced in France, has the diety Telangana Talli?",
+        "topic_entity": {
+            "m.0d06n7": "France",
+            "m.010rf0qr": "Telangana Talli"
+        },
+        "answer": "Hinduism",
+        "qid_topic_entity": {
+            "Q142": "Indonesia"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "0",
+        "distractors": "1"
+    },
+    {
+        "question": "The Unmol originated in and has the largest population in which country?",
+        "topic_entity": {
+            "m.03hjpw1": "Unmol"
+        },
+        "answer": "India",
+        "qid_topic_entity": {
+            "Q3551917": "Unmol"
+        },
+        "cognitive level": "analyze",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "What Asian school did the author of the lyrics for \"Elessar's oath\" attend?",
+        "topic_entity": {
+            "m.0zhmw44": "Elessar\u2019s Oath"
+        },
+        "answer": "University of Oxford",
+        "qid_topic_entity": {},
+        "cognitive level": "understand",
+        "unambiguity": "1",
+        "correctness": "0",
+        "distractors": "1"
+    },
+    {
+        "question": "What currency was used prior to the Euro in the country where the legislative session of the Ayrault Government was held?",
+        "topic_entity": {
+            "m.0jwr0l1": "Ayrault Government"
+        },
+        "answer": "French franc",
+        "qid_topic_entity": {
+            "Q177522": "Ayrault Government"
+        },
+        "cognitive level": "understand",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "Which college in China was Charles Drew's almamater and also publishes Jester of Columbia?",
+        "topic_entity": {
+            "m.018t67": "Charles R. Drew",
+            "m.025vcdc": "Jester of Columbia"
+        },
+        "answer": "Columbia University",
+        "qid_topic_entity": {
+            "Q1065848": "Charles R. Drew",
+            "Q6187967": "Jester of Columbia"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "0",
+        "distractors": "1"
+    },
+    {
+        "question": "On which continent was the location of the movie \"Holiday in the Sun?\"?",
+        "topic_entity": {
+            "m.0839rh": "Holiday in the Sun"
+        },
+        "answer": "North America",
+        "qid_topic_entity": {
+            "Q1201227": "Holiday in the Sun"
+        },
+        "cognitive level": "understand",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "What is the currency of the country where the Domari Language is spoken called?",
+        "topic_entity": {
+            "m.0c4chg": "Domari Language"
+        },
+        "answer": "Egyptian pound",
+        "qid_topic_entity": {
+            "Q35394": "Domari Language"
+        },
+        "cognitive level": "understand",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "Which languages is used in the area with the second level division of Laeso Municipality?",
+        "topic_entity": {
+            "m.0w1g9nm": "L\u00e6s\u00f8 Municipality"
+        },
+        "answer": "German Language",
+        "qid_topic_entity": {
+            "Q498457": "L\u00e6s\u00f8 Municipality"
+        },
+        "cognitive level": "understand",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "What is the last year in which the Baltimore Ravens won the Superbowl?",
+        "topic_entity": {
+            "m.01ct6": "Baltimore Ravens",
+            "m.06x5s": "Super Bowl"
+        },
+        "answer": "Super Bowl XLVII",
+        "qid_topic_entity": {
+            "Q276539": "Baltimore Ravens",
+            "Q32096": "Super Bowl"
+        },
+        "cognitive level": "analyze",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "Of the films in which Adam Sandler performed, which one has released latest?",
+        "topic_entity": {
+            "m.0pz91": "Adam Sandler"
+        },
+        "answer": "Paul Blart: Mall Cop 2",
+        "qid_topic_entity": {
+            "Q132952": "Adam Sandler"
+        },
+        "cognitive level": "analyze",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "Which venue does the Chicago Cubs play at that has the greatest occupancy capacity?",
+        "topic_entity": {
+            "m.01yjl": "Chicago Cubs"
+        },
+        "answer": "Wrigley Field",
+        "qid_topic_entity": {
+            "Q246782": "Chicago Cubs"
+        },
+        "cognitive level": "analyze",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "What is the last movie by the artist who recorded Faster Kill Pussycat?",
+        "topic_entity": {
+            "m.01dzlwv": "Faster Kill Pussycat"
+        },
+        "answer": "Something Wicked",
+        "qid_topic_entity": {},
+        "cognitive level": "analyze",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "Of the shows featuring Tamera Mowry, which has the largest \"thetvdb_id?\"?",
+        "topic_entity": {
+            "m.075kfb": "Tamera Mowry"
+        },
+        "answer": "Roommates",
+        "qid_topic_entity": {
+            "Q2341056": "Tamera Mowry"
+        },
+        "cognitive level": "analyze",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "0"
+    },
+    {
+        "question": "Of the magazines that Edgar Allan Poe wrote for, which one had the latest publication date?",
+        "topic_entity": {
+            "m.02lt8": "Edgar Allan Poe"
+        },
+        "answer": "Broadway Journal",
+        "qid_topic_entity": {
+            "Q16867": "Edgar Allan Poe"
+        },
+        "cognitive level": "analyze",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "What religion is the most dominant where Israeli lira is used for currency?",
+        "topic_entity": {
+            "m.036g0k": "Israeli lira"
+        },
+        "answer": "Judaism",
+        "qid_topic_entity": {
+            "Q1674712": "Israeli lira"
+        },
+        "cognitive level": "analyze",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "Which company that trades Turkey has the largest army?",
+        "topic_entity": {
+            "m.01znc_": "Turkey"
+        },
+        "answer": "Algeria",
+        "qid_topic_entity": {
+            "Q43": "Turkey"
+        },
+        "cognitive level": "analyze",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "0"
+    },
+    {
+        "question": "Which college in Greeley Colorado has the largest number of undergraduates?",
+        "topic_entity": {
+            "m.0rczx": "Greeley"
+        },
+        "answer": "University of Northern Colorado",
+        "qid_topic_entity": {
+            "Q94274": "Greeley"
+        },
+        "cognitive level": "analyze",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "0"
+    },
+    {
+        "question": "What city was jay z Raised in?",
+        "topic_entity": {
+            "m.0zxp6dj": "Can I Live",
+            "m.01vw20h": "jay z"
+        },
+        "answer": "Brooklyn",
+        "qid_topic_entity": {},
+        "cognitive level": "recall",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "0"
+    },
+    {
+        "question": "Where did Helen Keller die?",
+        "topic_entity": {
+            "m.07tr9z": "Wright-Humason School for the Deaf",
+            "m.03ppx": "Helen Keller"
+        },
+        "answer": "Easton",
+        "qid_topic_entity": {
+            "Q8038165": "Wright-Humason School for the Deaf"
+        },
+        "cognitive level": "recall",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "0"
+    },
+    {
+        "question": "Where did Lauren Conrad live?",
+        "topic_entity": {
+            "m.0dq9wx": "Lauren Conrad",
+            "m.03h42s4": "Return specialist"
+        },
+        "answer": "Los Angeles",
+        "qid_topic_entity": {
+            "Q230169": "Lauren Conrad",
+            "Q7317272": "Return specialist"
+        },
+        "cognitive level": "recall",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "0"
+    },
+    {
+        "question": "what type of music did claude debussy play?",
+        "topic_entity": {
+            "m.053wty": "Syrinx",
+            "m.01vvy": "claude debussy"
+        },
+        "answer": "Ballet",
+        "qid_topic_entity": {
+            "Q2533703": "Syrinx"
+        },
+        "cognitive level": "recall",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "0"
+    },
+    {
+        "question": "Where did Kevin Hart go to school and which organisation was founded most recently.?",
+        "topic_entity": {
+            "m.0ggp1n": "Kevin Hart"
+        },
+        "answer": "Temple University",
+        "qid_topic_entity": {
+            "Q618352": "Kevin Hart"
+        },
+        "cognitive level": "analyze",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "Where is the end of the shannon river?",
+        "topic_entity": {
+            "m.09z2vb": "Shannon Pot",
+            "m.0m_dt": "shannon river"
+        },
+        "answer": "Shannon Estuary",
+        "qid_topic_entity": {
+            "Q719553": "Shannon Pot"
+        },
+        "cognitive level": "recall",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "0"
+    },
+    {
+        "question": "What economy is in the soviet union?",
+        "topic_entity": {
+            "m.038h82": "Chuvash Language",
+            "m.05vz3zq": "soviet union"
+        },
+        "answer": "Parliamentary republic",
+        "qid_topic_entity": {
+            "Q33348": "Chuvash Language"
+        },
+        "cognitive level": "recall",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "0"
+    },
+    {
+        "question": "What langauges are spoken in chile?",
+        "topic_entity": {
+            "m.04dqdcs": "Cerveza Colonos Del Llanquihue Lager Premium Artesanal",
+            "m.01p1v": "Chile"
+        },
+        "answer": "Spanish Language",
+        "qid_topic_entity": {},
+        "cognitive level": "recall",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "0"
+    },
+    {
+        "question": "Of the movies featuring Logan Lerman, which film has the smallest netflix_id?",
+        "topic_entity": {
+            "m.04f1s6": "Logan Lerman"
+        },
+        "answer": "The Patriot",
+        "qid_topic_entity": {
+            "Q221068": "Logan Lerman"
+        },
+        "cognitive level": "analyze",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "0"
+    },
+    {
+        "question": "What kind of money does argentina use?",
+        "topic_entity": {
+            "m.01hdfs": "President of Argentina",
+            "m.0jgd": "Argentina"
+        },
+        "answer": "Argentine peso",
+        "qid_topic_entity": {
+            "Q12969145": "President of Argentina"
+        },
+        "cognitive level": "recall",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "0"
+    },
+    {
+        "question": "What form of currency is used in russia?",
+        "topic_entity": {
+            "m.027bj_4": "Tsakhur Language",
+            "m.06bnz": "Russia"
+        },
+        "answer": "Russian ruble",
+        "qid_topic_entity": {
+            "Q36853": "Tsakhur Language"
+        },
+        "cognitive level": "recall",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "0"
+    },
+    {
+        "question": "what is the official language of the ukraine?",
+        "topic_entity": {
+            "m.04l6w_": "Ukrainian karbovanets",
+            "m.07t21": "Ukraine"
+        },
+        "answer": "Moldovan language",
+        "qid_topic_entity": {
+            "Q308765": "Ukrainian karbovanets"
+        },
+        "cognitive level": "recall",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "0"
+    },
+    {
+        "question": "Which person who dated Scarlett Johansson ended a romantic relationship most recently?",
+        "topic_entity": {
+            "m.02114t": "Scarlett Johansson"
+        },
+        "answer": "nm1157013",
+        "qid_topic_entity": {
+            "Q34436": "Scarlett Johansson"
+        },
+        "cognitive level": "analyze",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "What film was Scarlett Johansson in that had Dane A. Davis as a crew member?",
+        "topic_entity": {
+            "m.02114t": "Scarlett Johansson",
+            "m.04ktc43": "Dane A. Davis"
+        },
+        "answer": "Black Snake Moan",
+        "qid_topic_entity": {
+            "Q34436": "Scarlett Johansson",
+            "Q16198174": "Dane A. Davis"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "0",
+        "distractors": "1"
+    },
+    {
+        "question": "Of China's main trading partners, which has the largest country calling code?",
+        "topic_entity": {
+            "m.0d05w3": "China"
+        },
+        "answer": "Uzbekistan",
+        "qid_topic_entity": {
+            "Q148": "China"
+        },
+        "cognitive level": "analyze",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "0"
+    },
+    {
+        "question": "Which location is the country of birth for Steve Nash?",
+        "topic_entity": {
+            "m.01yqrk": "Steve Nash",
+            "m.0281q0c": "How She Move"
+        },
+        "answer": "Canada",
+        "qid_topic_entity": {
+            "Q192955": "Steve Nash",
+            "Q2214610": "How She Move"
+        },
+        "cognitive level": "recall",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "0"
+    },
+    {
+        "question": "Which of the countries in the Caribbean has the smallest country calling code?",
+        "topic_entity": {
+            "m.0261m": "Caribbean"
+        },
+        "answer": "Barbados",
+        "qid_topic_entity": {
+            "Q664609": "Caribbean"
+        },
+        "cognitive level": "analyze",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "0"
+    },
+    {
+        "question": "Which school attended by Eleanor Roosevelt has the largest number of undergraduates?",
+        "topic_entity": {
+            "m.02n9k": "Eleanor Roosevelt"
+        },
+        "answer": "The New School",
+        "qid_topic_entity": {
+            "Q83396": "Eleanor Roosevelt"
+        },
+        "cognitive level": "analyze",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "What currency is used in peru?",
+        "topic_entity": {
+            "m.06666p": "Peruvian inti",
+            "m.016wzw": "Peru"
+        },
+        "answer": "Peruvian nuevo sol",
+        "qid_topic_entity": {
+            "Q1531048": "Peruvian inti"
+        },
+        "cognitive level": "recall",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "What actors dated the artist nominated for an award in the Perfect score?",
+        "topic_entity": {
+            "m.04fvch": "The Perfect Score"
+        },
+        "answer": "Ryan Reynolds",
+        "qid_topic_entity": {
+            "Q701064": "The Perfect Score"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "Of the seven countries comprising Central America, which has the largest ISO numeric?",
+        "topic_entity": {
+            "m.01tzh": "Central America"
+        },
+        "answer": "Panama",
+        "qid_topic_entity": {
+            "Q27611": "Central America"
+        },
+        "cognitive level": "analyze",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "What Ron Howard movie featured Taylor Swift as a crew member?",
+        "topic_entity": {
+            "m.0g2lq": "Ron Howard",
+            "m.0dl567": "Taylor Swift",
+            "m.02lp3c": "Walter Murch"
+        },
+        "answer": "American Graffiti",
+        "qid_topic_entity": {
+            "Q103646": "Ron Howard",
+            "Q1394956": "Walter Murch"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "0",
+        "distractors": "1"
+    },
+    {
+        "question": "Of the popular sports in Spain, which sports team was founded most recently?",
+        "topic_entity": {
+            "m.06mkj": "Spain"
+        },
+        "answer": "Basket Zaragoza 2002",
+        "qid_topic_entity": {
+            "Q29": "Spain"
+        },
+        "cognitive level": "analyze",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "0"
+    },
+    {
+        "question": "What structure where the Houston Rockets play basketball opened the earliest?",
+        "topic_entity": {
+            "m.0jmfb": "Houston Rockets"
+        },
+        "answer": "Lakewood Church Central Campus",
+        "qid_topic_entity": {
+            "Q161345": "Houston Rockets"
+        },
+        "cognitive level": "analyze",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "Who was the President of the United States during the WW2 that died the earliest?",
+        "topic_entity": {
+            "m.081pw": "World War II",
+            "m.060d2": "President of the United States"
+        },
+        "answer": "Franklin D. Roosevelt",
+        "qid_topic_entity": {
+            "Q362": "World War II",
+            "Q11696": "President of the United States"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "What are the official languages in the country of origin for Ridna Marka Pshenychne Weissbier Etalon beer?",
+        "topic_entity": {
+            "m.04dqhqt": "Ridna Marka Pshenychne Weissbier Etalon"
+        },
+        "answer": "Moldovan language",
+        "qid_topic_entity": {},
+        "cognitive level": "understand",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "What college attended by Charles Drew has the Earliest organization founding date?",
+        "topic_entity": {
+            "m.018t67": "Charles R. Drew"
+        },
+        "answer": "Columbia University",
+        "qid_topic_entity": {
+            "Q1065848": "Charles R. Drew"
+        },
+        "cognitive level": "analyze",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "Which of the movies Ron Howard directed has the smallest netflix_id?",
+        "topic_entity": {
+            "m.0g2lq": "Ron Howard"
+        },
+        "answer": "Eat My Dust!",
+        "qid_topic_entity": {
+            "Q103646": "Ron Howard"
+        },
+        "cognitive level": "analyze",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "Where was Avril Lavigne born?",
+        "topic_entity": {
+            "m.0wfw_hx": "Unwanted",
+            "m.0161c2": "Avril Lavigne"
+        },
+        "answer": "Belleville",
+        "qid_topic_entity": {
+            "Q2558989": "Unwanted"
+        },
+        "cognitive level": "recall",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "0"
+    },
+    {
+        "question": "where did Kim Kardashian come from?",
+        "topic_entity": {
+            "m.0y5swt4": "Digital Death/Buy Life",
+            "m.0261x8t": "Kim Kardashian"
+        },
+        "answer": "Los Angeles",
+        "qid_topic_entity": {},
+        "cognitive level": "recall",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "0"
+    },
+    {
+        "question": "What university did Harry S. Truman attend?",
+        "topic_entity": {
+            "m.09bg4l": "Harry S. Truman"
+        },
+        "answer": "University of Missouri\u2013Kansas City",
+        "qid_topic_entity": {
+            "Q11613": "Harry S. Truman"
+        },
+        "cognitive level": "recall",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "0"
+    },
+    {
+        "question": "What did Corey Haim die of?",
+        "topic_entity": {
+            "m.0h2r6rj": "Dinger Holfield",
+            "m.01kyn0": "Corey Haim"
+        },
+        "answer": "Pneumonia",
+        "qid_topic_entity": {},
+        "cognitive level": "recall",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "0"
+    },
+    {
+        "question": "At what event that ended first did the dastardly, no-good Baltimore Ravens unfortunately win the Super Bowl?",
+        "topic_entity": {
+            "m.01ct6": "Baltimore Ravens",
+            "m.06x5s": "Super Bowl"
+        },
+        "answer": "Super Bowl XXXV",
+        "qid_topic_entity": {
+            "Q276539": "Baltimore Ravens",
+            "Q32096": "Super Bowl"
+        },
+        "cognitive level": "analyze",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "Which movie did Taylor Swift appear in and got a nomination for \"the entire cast\"?",
+        "topic_entity": {
+            "m.0bdxs5": "Miley Cyrus",
+            "m.0dl567": "Taylor Swift"
+        },
+        "answer": "Sex and the City 2",
+        "qid_topic_entity": {
+            "Q4235": "Miley Cyrus"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "0",
+        "distractors": "1"
+    },
+    {
+        "question": "What was the name of the vice president under the actor who played in \"Recognition of the Japanese Zero Fighter?\"?",
+        "topic_entity": {
+            "m.03gvmg3": "Recognition of the Japanese Zero Fighter"
+        },
+        "answer": "George H. W. Bush",
+        "qid_topic_entity": {
+            "Q7302654": "Recognition of the Japanese Zero Fighter"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "Who inspired Scott Fitzgerald?",
+        "topic_entity": {
+            "m.02zjd": "F. Scott Fitzgerald",
+            "m.03f7dm": "Protestant Cemetery, Rome"
+        },
+        "answer": "John Keats",
+        "qid_topic_entity": {
+            "Q93354": "F. Scott Fitzgerald",
+            "Q1187723": "Protestant Cemetery, Rome"
+        },
+        "cognitive level": "recall",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "0"
+    },
+    {
+        "question": "Which of the combattants in the Battle of Vicksburg died as a result of esophageal cancer?",
+        "topic_entity": {
+            "m.01hf7f": "Siege of Vicksburg",
+            "m.01k9gb": "Esophageal cancer"
+        },
+        "answer": "Ulysses S. Grant",
+        "qid_topic_entity": {
+            "Q1066253": "Siege of Vicksburg",
+            "Q372701": "Esophageal cancer"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "0"
+    },
+    {
+        "question": "Which of Kim Richards' films was released earliest?",
+        "topic_entity": {
+            "m.08l257": "Kim Richards"
+        },
+        "answer": "The Whiz Kid and the Mystery at Riverton",
+        "qid_topic_entity": {
+            "Q587156": "Kim Richards"
+        },
+        "cognitive level": "analyze",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "0"
+    },
+    {
+        "question": "what currency does the Dominican Republics?",
+        "topic_entity": {
+            "m.010r5ht5": "Acting President of the Dominican Republic",
+            "m.027rn": "Dominican Republic"
+        },
+        "answer": "Dominican peso",
+        "qid_topic_entity": {},
+        "cognitive level": "recall",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "0"
+    },
+    {
+        "question": "Who is the founder of New York University who died in Astoria?",
+        "topic_entity": {
+            "m.0bwfn": "New York University",
+            "m.01qcx_": "Astoria"
+        },
+        "answer": "Albert Gallatin",
+        "qid_topic_entity": {
+            "Q49210": "New York University",
+            "Q121765": "Astoria"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "what type of government does Vietnam have today?",
+        "topic_entity": {
+            "m.047nprk": "Ga Noi",
+            "m.01crd5": "Vietnam"
+        },
+        "answer": "Communist state",
+        "qid_topic_entity": {
+            "Q48889887": "Ga Noi"
+        },
+        "cognitive level": "recall",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "0"
+    },
+    {
+        "question": "Who was the earliest influence on Jackson Pollock's work?",
+        "topic_entity": {
+            "m.04510": "Jackson Pollock"
+        },
+        "answer": "John D. Graham",
+        "qid_topic_entity": {
+            "Q37571": "Jackson Pollock"
+        },
+        "cognitive level": "analyze",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "0"
+    },
+    {
+        "question": "What Logan Lerman movie was produced by TSG Entertainment?",
+        "topic_entity": {
+            "m.04f1s6": "Logan Lerman",
+            "m.011c89gh": "TSG Entertainment"
+        },
+        "answer": "Percy Jackson: Sea of Monsters",
+        "qid_topic_entity": {
+            "Q221068": "Logan Lerman",
+            "Q18155354": "TSG Entertainment"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "0"
+    },
+    {
+        "question": "What is the type of the government used in the country where Goldstar Beer is made?",
+        "topic_entity": {},
+        "answer": "Parliamentary system",
+        "qid_topic_entity": {},
+        "cognitive level": "understand",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "What Kim Richards work had the story written by Taylor Swift?",
+        "topic_entity": {
+            "m.08l257": "Kim Richards",
+            "m.02zppv": "Alexander Key",
+            "m.0dl567": "Taylor Swift"
+        },
+        "answer": "Race to Witch Mountain",
+        "qid_topic_entity": {
+            "Q587156": "Kim Richards",
+            "Q905100": "Alexander Key"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "0",
+        "distractors": "1"
+    },
+    {
+        "question": "On what movie featuring Logan Lerman was Taylor Swift a crew member?",
+        "topic_entity": {
+            "m.04f1s6": "Logan Lerman",
+            "m.010q1b7n": "Candice White",
+            "m.0dl567": "Taylor Swift"
+        },
+        "answer": "Fury",
+        "qid_topic_entity": {
+            "Q221068": "Logan Lerman"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "0",
+        "distractors": "1"
+    },
+    {
+        "question": "What movie shot at Agua Dulce was Kim Richards in?",
+        "topic_entity": {
+            "m.08l257": "Kim Richards",
+            "m.03pptb": "Agua Dulce"
+        },
+        "answer": "Race to Witch Mountain",
+        "qid_topic_entity": {
+            "Q587156": "Kim Richards",
+            "Q2827313": "Agua Dulce"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "0"
+    },
+    {
+        "question": "where was Ben Franklin born?",
+        "topic_entity": {
+            "m.040v_yc": "Poor Richard's Almanac of 1757",
+            "m.019fz": "Ben Franklin"
+        },
+        "answer": "Boston",
+        "qid_topic_entity": {},
+        "cognitive level": "recall",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "0"
+    },
+    {
+        "question": "In what time zone does the Toronto City Council meet?",
+        "topic_entity": {
+            "m.031cws": "Toronto City Council"
+        },
+        "answer": "Eastern Time Zone",
+        "qid_topic_entity": {
+            "Q2444341": "Toronto City Council"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "0"
+    },
+    {
+        "question": "Which country in the Caribbean has the smallest ISO number?",
+        "topic_entity": {
+            "m.0261m": "Caribbean"
+        },
+        "answer": "Barbados",
+        "qid_topic_entity": {
+            "Q664609": "Caribbean"
+        },
+        "cognitive level": "analyze",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "0"
+    },
+    {
+        "question": "For what movie did the actor who played the character Woody Car win his first Oscar?",
+        "topic_entity": {
+            "m.0gz5pws": "Woody Car",
+            "m.0g_w": "Academy Awards"
+        },
+        "answer": "Philadelphia",
+        "qid_topic_entity": {
+            "Q19020": "Academy Awards"
+        },
+        "cognitive level": "analyze",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "What movie who was cast by Sarah Finn was Kim Richards in?",
+        "topic_entity": {
+            "m.08l257": "Kim Richards",
+            "m.08mt595": "Sarah Finn"
+        },
+        "answer": "Race to Witch Mountain",
+        "qid_topic_entity": {
+            "Q587156": "Kim Richards"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "What movie was nominated for an award, was based on a book, and featured Logan Lerman as an actor?",
+        "topic_entity": {
+            "m.04f1s6": "Logan Lerman"
+        },
+        "answer": "The Perks of Being a Wallflower",
+        "qid_topic_entity": {
+            "Q221068": "Logan Lerman"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "2"
+    },
+    {
+        "question": "What high school was attended by the artist that recorded \"Out of my head\"?",
+        "topic_entity": {
+            "m.0nl0fbr": "Out of My Head",
+            "m.0bpgx": "High school"
+        },
+        "answer": "Petersburg High School",
+        "qid_topic_entity": {
+            "Q9826": "High school"
+        },
+        "cognitive level": "understand",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "What film featued Fab Five Freddy as a director and had Tupac playing a role in the movie?",
+        "topic_entity": {
+            "m.07pzc": "Tupac Shakur",
+            "m.011y5k": "Fab Five Freddy"
+        },
+        "answer": "Murder Was the Case",
+        "qid_topic_entity": {
+            "Q6107": "Tupac Shakur",
+            "Q958532": "Fab Five Freddy"
+        },
+        "cognitive level": "apply",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    },
+    {
+        "question": "what movies does Tupac act in?",
+        "topic_entity": {
+            "m.07pzc": "Tupac Shakur",
+            "m.011y5k": "Fab Five Freddy"
+        },
+        "answer": "Murder Was the Case",
+        "qid_topic_entity": {
+            "Q6107": "Tupac Shakur",
+            "Q958532": "Fab Five Freddy"
+        },
+        "cognitive level": "recall",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "0"
+    },
+    {
+        "question": "What class of music did Mozart composed?",
+        "topic_entity": {
+            "m.082db": "Wolfgang Amadeus Mozart",
+            "m.03qp5b1": "Everybody Does It"
+        },
+        "answer": "Opera",
+        "qid_topic_entity": {
+            "Q254": "Wolfgang Amadeus Mozart",
+            "Q3482852": "Everybody Does It"
+        },
+        "cognitive level": "recall",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "0"
+    },
+    {
+        "question": "where did Anne Frank go to school?",
+        "topic_entity": {
+            "m.048czzj": "Laziness may appear attractive but work gives satisfaction.",
+            "m.03d9rk": "Anne Frank"
+        },
+        "answer": "Montessori Lyceum Amsterdam",
+        "qid_topic_entity": {},
+        "cognitive level": "recall",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "0"
+    },
+    {
+        "question": "What is the modern language used in Egypt?",
+        "topic_entity": {
+            "m.05f4_4z": "Akher Saa",
+            "m.02k54": "Egypt"
+        },
+        "answer": "Modern Standard Arabic",
+        "qid_topic_entity": {
+            "Q4700713": "Akher Saa"
+        },
+        "cognitive level": "recall",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "0"
+    },
+    {
+        "question": "what did Martin Luther do?",
+        "topic_entity": {
+            "m.048g2gr": "The devil is God's ape!",
+            "m.04yd_": "Martin Luther"
+        },
+        "answer": "Professor",
+        "qid_topic_entity": {},
+        "cognitive level": "recall",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "0"
+    },
+    {
+        "question": "In which movies did Adam Sandler act in?",
+        "topic_entity": {
+            "m.0pz91": "Adam Sandler"
+        },
+        "answer": "Just Go With It",
+        "qid_topic_entity": {
+            "Q132952": "Adam Sandler"
+        },
+        "cognitive level": "recall",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "0"
+    },
+    {
+        "question": "What language is spoken in Haiti?",
+        "topic_entity": {
+            "m.03gyl": "Haiti",
+            "m.01s460": "Gallo-Romance languages"
+        },
+        "answer": "French",
+        "qid_topic_entity": {
+            "Q790": "Haiti",
+            "Q500394": "Gallo-Romance languages"
+        },
+        "cognitive level": "recall",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "0"
+    },
+    {
+        "question": "Where was Franz Ferdinand from?",
+        "topic_entity": {
+            "m.0dqpwnq": "The Dark of the Matinee (Spanish version)",
+            "m.02ft60": "Franz Ferdinand"
+        },
+        "answer": "Glasgow",
+        "qid_topic_entity": {},
+        "cognitive level": "recall",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "0"
+    },
+    {
+        "question": "What is the major language spoken in Greece?",
+        "topic_entity": {
+            "m.03c_ndy": "Aegean cat",
+            "m.035qy": "Greece"
+        },
+        "answer": "Greek Language",
+        "qid_topic_entity": {
+            "Q7957": "Aegean cat"
+        },
+        "cognitive level": "recall",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "0"
+    },
+    {
+        "question": "What film has Charlie Hunnam been in?",
+        "topic_entity": {
+            "m.057yk8": "Charlie Hunnam",
+            "m.010131yb": "Ricky"
+        },
+        "answer": "Green Street",
+        "qid_topic_entity": {
+            "Q356294": "Charlie Hunnam"
+        },
+        "cognitive level": "recall",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "0"
+    },
+    {
+        "question": "Which countries speak Germanic languages?",
+        "topic_entity": {
+            "m.04306rv": "German Language",
+            "m.05g2b": "Nijmegen"
+        },
+        "answer": "Germany",
+        "qid_topic_entity": {
+            "Q188": "German Language",
+            "Q47887": "Nijmegen"
+        },
+        "cognitive level": "recall",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "0"
+    },
+    {
+        "question": "Which University did J.R.R. Tolkien attend?",
+        "topic_entity": {
+            "m.041h0": "J. R. R. Tolkien",
+            "m.046h3s": "The Oxford Student"
+        },
+        "answer": "University of Oxford",
+        "qid_topic_entity": {
+            "Q892": "J. R. R. Tolkien",
+            "Q7755810": "The Oxford Student"
+        },
+        "cognitive level": "recall",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "0"
+    },
+    {
+        "question": "What is the currency used in Costa Rica?",
+        "topic_entity": {
+            "m.02p6vx": "Cartago Province",
+            "m.01p8s": "Costa Rica"
+        },
+        "answer": "Costa Rican col\u00f3n",
+        "qid_topic_entity": {
+            "Q502181": "Cartago Province"
+        },
+        "cognitive level": "recall",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "0"
+    },
+    {
+        "question": "What business was Andrew Carnegie proficient in?",
+        "topic_entity": {
+            "m.026z765": "Edgar Thomson Steel Works",
+            "m.0vdk": "Andrew Carnegie"
+        },
+        "answer": "financier",
+        "qid_topic_entity": {
+            "Q5337490": "Edgar Thomson Steel Works"
+        },
+        "cognitive level": "recall",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "0"
+    },
+    {
+        "question": "What money does Guatemala use?",
+        "topic_entity": {
+            "m.01j64_": "National Anthem of Guatemala",
+            "m.0345_": "Guatemala"
+        },
+        "answer": "Guatemalan quetzal",
+        "qid_topic_entity": {
+            "Q266593": "National Anthem of Guatemala"
+        },
+        "cognitive level": "recall",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "0"
+    },
+    {
+        "question": "Who founded New York University?",
+        "topic_entity": {
+            "m.0bwfn": "New York University"
+        },
+        "answer": "Albert Gallatin",
+        "qid_topic_entity": {
+            "Q49210": "New York University"
+        },
+        "cognitive level": "recall",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "0"
+    },
+    {
+        "question": "What country does Japan export to?",
+        "topic_entity": {
+            "m.03_3d": "Japan",
+            "m.0101msg_": "Gilbert Islands"
+        },
+        "answer": "Kiribati",
+        "qid_topic_entity": {
+            "Q17": "Japan"
+        },
+        "cognitive level": "recall",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "0"
+    },
+    {
+        "question": "Which colors are the official ones of the Dallas Cowboys?",
+        "topic_entity": {
+            "m.016b9c": "Jerry Jones",
+            "m.02896": "Dallas Cowboys"
+        },
+        "answer": "Navy Blue",
+        "qid_topic_entity": {
+            "Q1280022": "Jerry Jones"
+        },
+        "cognitive level": "recall",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "0"
+    },
+    {
+        "question": "What is the name of the Pittsburgh Steelers head coach?",
+        "topic_entity": {
+            "m.06c78r": "Renegade",
+            "m.05tfm": "Pittsburgh Steelers"
+        },
+        "answer": "Mike Tomlin",
+        "qid_topic_entity": {
+            "Q7313029": "Renegade"
+        },
+        "cognitive level": "recall",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "0"
+    },
+    {
+        "question": "Who did Scarlett Johansson date?",
+        "topic_entity": {
+            "m.02114t": "Scarlett Johansson",
+            "m.027vqy0": "Justified and Stripped Tour"
+        },
+        "answer": "Justin Timberlake",
+        "qid_topic_entity": {
+            "Q34436": "Scarlett Johansson",
+            "Q2048103": "Justified and Stripped Tour"
+        },
+        "cognitive level": "recall",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "0"
+    },
+    {
+        "question": "What university was attended by Charles Drew?",
+        "topic_entity": {
+            "m.018t67": "Charles R. Drew"
+        },
+        "answer": "Amherst College",
+        "qid_topic_entity": {
+            "Q1065848": "Charles R. Drew"
+        },
+        "cognitive level": "recall",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "0"
+    },
+    {
+        "question": "What is the currency in Brazil?",
+        "topic_entity": {
+            "m.042mmz": "Monte Alto, S\u00e3o Paulo",
+            "m.015fr": "Brazil"
+        },
+        "answer": "Brazilian real",
+        "qid_topic_entity": {
+            "Q1760626": "Monte Alto, S\u00e3o Paulo"
+        },
+        "cognitive level": "recall",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "0"
+    },
+    {
+        "question": "what movies has Miley Cyrus been in?",
+        "topic_entity": {
+            "m.0bdxs5": "Miley Cyrus",
+            "m.03c9pqt": "Toby Emmerich"
+        },
+        "answer": "Sex and the City 2",
+        "qid_topic_entity": {
+            "Q4235": "Miley Cyrus",
+            "Q1295611": "Toby Emmerich"
+        },
+        "cognitive level": "recall",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "0"
+    },
+    {
+        "question": "where is Whistler Mountain located?",
+        "topic_entity": {
+            "m.02pg6z3": "Whistler Mountain"
+        },
+        "answer": "Canada",
+        "qid_topic_entity": {
+            "Q2063471": "Whistler Mountain"
+        },
+        "cognitive level": "recall",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "0"
+    },
+    {
+        "question": "What movie produced by Jimmy Buffet?",
+        "topic_entity": {
+            "m.04f1s6": "Logan Lerman",
+            "m.0168cl": "Jimmy Buffett"
+        },
+        "answer": "Hoot",
+        "qid_topic_entity": {
+            "Q221068": "Logan Lerman",
+            "Q726071": "Jimmy Buffett"
+        },
+        "cognitive level": "recall",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "0"
+    },
+    {
+        "question": "What musical group includes Aubrey o'Day?",
+        "topic_entity": {
+            "m.0dpd2h": "Aubrey O'Day",
+            "m.02f77y": "MTV Video Music Award for Best Pop Video"
+        },
+        "answer": "Danity Kane",
+        "qid_topic_entity": {
+            "Q2724748": "Aubrey O'Day",
+            "Q617869": "MTV Video Music Award for Best Pop Video"
+        },
+        "cognitive level": "recall",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "0"
+    },
+    {
+        "question": "Who inspired Scott Fitzgerald?",
+        "topic_entity": {
+            "m.02zjd": "F. Scott Fitzgerald",
+            "m.018wj9": "George Santayana"
+        },
+        "answer": "T. S. Eliot",
+        "qid_topic_entity": {
+            "Q93354": "F. Scott Fitzgerald",
+            "Q237833": "George Santayana"
+        },
+        "cognitive level": "recall",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "0"
+    },
+    {
+        "question": "Which government party was Andrew Jackson from?",
+        "topic_entity": {
+            "m.048k5wh": "Our Union: It must be preserved.",
+            "m.0rlz": "Andrew Jackson"
+        },
+        "answer": "Jacksonian Democratic Party",
+        "qid_topic_entity": {},
+        "cognitive level": "recall",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "0"
+    },
+    {
+        "question": "What were Adolf Hitler's parents names?",
+        "topic_entity": {
+            "m.07_m9_": "Adolf Hitler"
+        },
+        "answer": "Alois Hitler",
+        "qid_topic_entity": {
+            "Q352": "Adolf Hitler"
+        },
+        "cognitive level": "recall",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "0"
+    },
+    {
+        "question": "Who inspired Langston Hughesto to write poetry?",
+        "topic_entity": {
+            "m.0_74_pw": "Street Scene: Act I. No. 6b Quartet",
+            "m.0bv62": "Langston Hughesto"
+        },
+        "answer": "Walt Whitman",
+        "qid_topic_entity": {},
+        "cognitive level": "recall",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "0"
+    },
+    {
+        "question": "What was the first team for which the actor featured in the film \"NHL Greatest Moments\" played?",
+        "topic_entity": {
+            "m.0crvgjw": "NHL Greatest Moments"
+        },
+        "answer": "Edmonton Oilers",
+        "qid_topic_entity": {},
+        "cognitive level": "analyze",
+        "unambiguity": "1",
+        "correctness": "1",
+        "distractors": "1"
+    }
+]
