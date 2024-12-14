@@ -12,8 +12,8 @@ def prepare_dataset(dataset_name):
         with open('../data/WebQSP.json',encoding='utf-8') as f:
             datas = json.load(f)
         question_string = 'RawQuestion'
-    elif dataset_name == 'graliqa':
-        with open('../data/graliqa.json',encoding='utf-8') as f:
+    elif dataset_name == 'grailqa':
+        with open('../data/grailqa.json',encoding='utf-8') as f:
             datas = json.load(f)
         question_string = 'question'
     elif dataset_name == 'simpleqa':
