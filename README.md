@@ -29,7 +29,33 @@ The required libraries for running MFC can be found in `requirements.txt`.
 - OpenLink Virtuoso 7.2.5 (download from this public [link](https://sourceforge.net/projects/virtuoso/files/virtuoso/))
 - Python 3
 - Freebase dump from this public [link](https://developers.google.com/freebase?hl=en)
-- Methods to setup Freebase from this public [link](https://github.com/IDEA-FinAI/ToG/tree/main/Freebase)
+### Data Preprocessing
+We use this py script (public [link](https://github.com/lanyunshi/Multi-hopComplexKBQA/blob/master/code/FreebaseTool/FilterEnglishTriplets.py), to clean the data and remove non-English or non-digital triplets:
+```sh
+gunzip -c freebase-rdf-latest.gz > freebase # data size: 400G
+nohup python -u FilterEnglishTriplets.py 0<freebase 1>FilterFreebase 2>log_err & # data size: 125G
+```
+### Import data
+We import the cleaned data to virtuoso,
+```sh
+tar xvpfz virtuoso-opensource.x86_64-generic_glibc25-linux-gnu.tar.gz
+cd virtuoso-opensource/database/
+mv virtuoso.ini.sample virtuoso.ini
+
+# ../bin/virtuoso-t -df # start the service in the shell
+../bin/virtuoso-t  # start the service in the backend.
+../bin/isql 1111 dba dba # run the database
+
+Here are two solutions to import:
+# 1、unzip the data and use rdf_loader to import
+SQL>
+ld_dir('.', 'FilterFreebase', 'http://freebase.com'); 
+rdf_loader_run();
+
+# 2、use DB.DBA.TTLP_MT to import
+SQL>
+DB.DBA.TTLP_MT (gz_file_open ('freebase-filter.gz'), '', 'http://freebase.com', 128);
+```
 
 ## How to run
 Upon successfully installing all the necessary configurations, you can proceed to execute MFC directly by employing the following command:
