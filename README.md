@@ -35,7 +35,7 @@ We use this py script (public [link](https://github.com/lanyunshi/Multi-hopCompl
 gunzip -c freebase-rdf-latest.gz > freebase # data size: 400G
 nohup python -u FilterEnglishTriplets.py 0<freebase 1>FilterFreebase 2>log_err & # data size: 125G
 
-you also can clean the data without gunzipping:
+you also can clean the data without decompressing:
 zcat freebase-rdf-latest.gz | python FilterEnglishTriplets.py | gzip > freebase-filter.gz # 10G
 ```
 ### Import data
