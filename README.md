@@ -18,7 +18,7 @@
   - `get_path.py`: Generate the path.
 
 # dataset
-We use four main datasets, including **CWQ**, **GraliQA**, **SimpleQA**, and **WebQSP**, for testing the QA capabilities of our framework MFC.
+We use four main datasets, including **CWQ**, **GrailQA**, **SimpleQA**, and **WebQSP**, for testing the QA capabilities of our framework MFC.
 Also, the **CWQ-QQA** dataset, which is based on the CWQ dataset, is labeled from the four perspectives **cognitive level**, **unambiguity**, **correctness**, and **distractors**. CWQ-QQA is used for QA as well as for the task of question quality assessment. 
 
 # Get started
