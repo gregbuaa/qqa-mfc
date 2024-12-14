@@ -29,7 +29,7 @@ The required libraries for running MFC can be found in `requirements.txt`.
 - OpenLink Virtuoso 7.2.5 (download from this public [link](https://sourceforge.net/projects/virtuoso/files/virtuoso/))
 - Python 3
 - Freebase dump from this public [link](https://developers.google.com/freebase?hl=en)
-- Methods to setup Freebase from this public [link](http://www.zhuzongkui.top/virtuoso/)
+- Methods to setup Freebase from this public [link](https://github.com/IDEA-FinAI/ToG/tree/main/Freebase)
 
 ## How to run
 Upon successfully installing all the necessary configurations, you can proceed to execute MFC directly by employing the following command:
